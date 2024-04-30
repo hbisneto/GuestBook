@@ -43,3 +43,13 @@ Siga os passos abaixo para executar o projeto:
 
 - Insira seu nome e uma mensagem no formulário exibido e clique em "Enviar".
 - As informações inseridas serão armazenadas no arquivo `mensagens.txt`, localizado dentro do diretório do projeto `GuestBook`.
+
+---
+
+### Outras versões do projeto
+
+- [Versão em Go:](https://github.com/VitorEstevam/guestbook) Desenvolvida por Vitor Estevam [(@vitorestevam)](https://github.com/vitorestevam)
+- [Versão em PHP:](https://github.com/andercoutos/guest) Desenvolvida por Anderson Couto [(@andercoutos)](https://github.com/andercoutos)
+- [Versão em Ruby:](https://github.com/leandronsp/guestbook) Desenvolvida por Leandro Proença [(@leandronsp)](https://github.com/leandronsp/)
+
+---
