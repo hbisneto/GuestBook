@@ -51,5 +51,3 @@ Siga os passos abaixo para executar o projeto:
 - [Versão em Go:](https://github.com/VitorEstevam/guestbook) Desenvolvida por Vitor Estevam [(@vitorestevam)](https://github.com/vitorestevam)
 - [Versão em PHP:](https://github.com/andercoutos/guest) Desenvolvida por Anderson Couto [(@andercoutos)](https://github.com/andercoutos)
 - [Versão em Ruby:](https://github.com/leandronsp/guestbook) Desenvolvida por Leandro Proença [(@leandronsp)](https://github.com/leandronsp/)
-
----
