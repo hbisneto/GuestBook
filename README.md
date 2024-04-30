@@ -6,7 +6,7 @@ O projeto **GuestBook** tem como objetivo criar um livro de visitas digital que 
 
 <div align="center">
 
-![Imagem de apresentação do GuestBook](https://raw.githubusercontent.com/hbisneto/GuestBook/main/images/presentation.png)
+<img src="https://raw.githubusercontent.com/hbisneto/GuestBook/main/images/presentation.png" width="80%" height="80%">
 
 </div>
 
@@ -35,6 +35,11 @@ Siga os passos abaixo para executar o projeto:
 	localhost:8000
 	```
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/hbisneto/GuestBook/main/images/terminal_sample.png" width="80%" height="80%">
+
+</div>
 
 - Insira seu nome e uma mensagem no formulário exibido e clique em "Enviar".
 - As informações inseridas serão armazenadas no arquivo `mensagens.txt`, localizado dentro do diretório do projeto `GuestBook`.
